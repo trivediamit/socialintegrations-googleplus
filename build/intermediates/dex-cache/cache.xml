@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2">
+
+    <item
+        jar="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false" revision="22.0.1" sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex
+            dex="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/pre-dexed/debug/classes-25c1268f0ce19fa97dde5f9eb14d02b691e00472.jar" />
+    </item>
+    <item
+        jar="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false" revision="22.0.1" sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex
+            dex="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/pre-dexed/debug/classes-2cb16914921dbfaa25893f449ccc8bf78c44d628.jar" />
+    </item>
+    <item
+        jar="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false" revision="22.0.1" sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex
+            dex="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/pre-dexed/debug/classes-750f98d08aae643d9bded36e4ef16ec2312b21b5.jar" />
+    </item>
+    <item
+        jar="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false" revision="22.0.1" sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex
+            dex="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/pre-dexed/debug/classes-59ae7dce163181c398abdbfa92e3d662b6043822.jar" />
+    </item>
+    <item
+        jar="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false" revision="22.0.1" sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex
+            dex="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/pre-dexed/debug/classes-bca33ccc3c04bb3fbf1bebc53273a92f7cee633e.jar" />
+    </item>
+    <item
+        jar="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false" revision="22.0.1" sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex
+            dex="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/pre-dexed/debug/classes-ecd88e93beedd839bca16406ead69f24537fbd5e.jar" />
+    </item>
+    <item
+        jar="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false" revision="22.0.1" sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex
+            dex="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/pre-dexed/debug/classes-2e2a1e2a4a0c1db06afa91d6381d117e25def14f.jar" />
+    </item>
+    <item
+        jar="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false" revision="22.0.1" sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex
+            dex="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-e4ccf9be1d284802c4ccdd17ba1cb291dea04c38.jar" />
+    </item>
+    <item
+        jar="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false" revision="22.0.1" sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex
+            dex="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/pre-dexed/debug/classes-0523966f010c6f0add0c64d0d88b228f8f0839a4.jar" />
+    </item>
+    <item
+        jar="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false" revision="22.0.1" sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex
+            dex="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/pre-dexed/debug/classes-679da02f6044e425731af954cdbb6ee2637d8e71.jar" />
+    </item>
+    <item
+        jar="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false" revision="22.0.1" sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex
+            dex="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/pre-dexed/debug/classes-a2b65d911555b1e8c7c44a59f00eff6a63b46bcb.jar" />
+    </item>
+    <item
+        jar="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false" revision="22.0.1" sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex
+            dex="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/pre-dexed/debug/classes-4a65cf12db2db315547efaa4658670927f7be23e.jar" />
+    </item>
+    <item
+        jar="/home/amit/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false" revision="22.0.1" sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex
+            dex="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-c9212dad0a69503a0b81f1b62a07a6e31564bc41.jar" />
+    </item>
+    <item
+        jar="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false" revision="22.0.1" sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex
+            dex="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/pre-dexed/debug/classes-ddfb93415f3f25c9f916bc3f69a0a60e8327aaff.jar" />
+    </item>
+    <item
+        jar="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false" revision="22.0.1" sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex
+            dex="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/pre-dexed/debug/classes-8859c3e63e26779b19a00b67dd2a4e2ef590941c.jar" />
+    </item>
+    <item
+        jar="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false" revision="22.0.1" sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex
+            dex="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/pre-dexed/debug/classes-29f0770c5ae259e01dc08ed7a73d21158da9f094.jar" />
+    </item>
+    <item
+        jar="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false" revision="22.0.1" sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex
+            dex="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/pre-dexed/debug/classes-826ac32cbd4d1738be8c700c5922281d04527417.jar" />
+    </item>
+    <item
+        jar="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false" revision="22.0.1" sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex
+            dex="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/pre-dexed/debug/classes-5e77097fe8918078e8df11a672977f093e16e35d.jar" />
+    </item>
+    <item
+        jar="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false" revision="22.0.1" sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex
+            dex="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/pre-dexed/debug/classes-277d07e83f196334fa255d112f33e29c0af64d9b.jar" />
+    </item>
+    <item
+        jar="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false" revision="22.0.1" sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex
+            dex="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/pre-dexed/debug/classes-ee9388c66e1d9992b8a74c909054d10f2b650e83.jar" />
+    </item>
+    <item
+        jar="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false" revision="22.0.1" sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex
+            dex="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/pre-dexed/debug/classes-85b3f06ea94b708b60ef06e3ffd6ed78d4c696b9.jar" />
+    </item>
+    <item
+        jar="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false" revision="22.0.1" sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex
+            dex="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/pre-dexed/debug/classes-10938ccae1e2ef930dc7565ca60041d61a43c0b6.jar" />
+    </item>
+    <item
+        jar="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false" revision="22.0.1" sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex
+            dex="/home/amit/AndroidStudioProjects/GooglePlusLogin/app/build/intermediates/pre-dexed/debug/classes-17b250e9c4b66f94aec5ff8b0ace49171616fd28.jar" />
+    </item>
+
+</items>
