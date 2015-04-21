@@ -73,7 +73,7 @@ public class MainActivity extends ActionBarActivity implements GoogleApiClient.C
     @Override
     public void onConnected(Bundle bundle) {
         mSignInClicked = false;
-        Toast.makeText(this, "User is connected!", Toast.LENGTH_LONG).show();
+        Toast.makeText(this, "User is connected now!", Toast.LENGTH_LONG).show();
 
         signOutButton.setVisibility(View.VISIBLE);
 
